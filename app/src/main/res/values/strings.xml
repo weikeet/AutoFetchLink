@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoFetchLink</string>
+    <string name="accessibility_service_description">自动获取浏览器访问URL</string>
+</resources>
